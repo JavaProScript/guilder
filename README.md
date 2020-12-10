@@ -1,1 +1,1 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+Rails app designed to emulate a marketplace where craftsmen offer their services, which can then be rented by neighbouring inhabitants.
